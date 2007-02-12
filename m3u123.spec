@@ -1,5 +1,5 @@
 Summary:	Command line music player using XMMS I/O plugins to play music
-Summary(pl):	Odtwarzacz muzyki z linii poleceÒ uøywaj±cy wtyczek XMMS-a
+Summary(pl.UTF-8):   Odtwarzacz muzyki z linii polece≈Ñ u≈ºywajƒÖcy wtyczek XMMS-a
 Name:		m3u123
 Version:	0.5.1
 Release:	1
@@ -16,10 +16,10 @@ This is a simple program which uses XMMS I/O plugins to play files,
 independently of XMMS itself. Not all XMMS plugins will work, but I've
 found that most will.
 
-%description -l pl
-Jest to prosty program, ktÛry uøywa wtyczek wej∂cia/wyj∂cia XMMS-a do
-odtwarzania plikÛw niezaleønie od samego XMMS-a. Nie wszystkie wtyczki
-dzia≥aj±, ale wiÍkszo∂Ê obs≥ugiwana jest poprawnie.
+%description -l pl.UTF-8
+Jest to prosty program, kt√≥ry u≈ºywa wtyczek wej≈õcia/wyj≈õcia XMMS-a do
+odtwarzania plik√≥w niezale≈ºnie od samego XMMS-a. Nie wszystkie wtyczki
+dzia≈ÇajƒÖ, ale wiƒôkszo≈õƒá obs≈Çugiwana jest poprawnie.
 
 %prep
 %setup -q -n %{name}
